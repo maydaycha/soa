@@ -1,0 +1,1 @@
+Main-Class: soa.demo/Main
